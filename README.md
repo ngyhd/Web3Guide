@@ -11,7 +11,7 @@
 [招聘平台]  -  [SmartDeer](https://apps.apple.com/sg/app/smartdeer-global-web3-jobs/id1669194296)  
 [招聘平台]  -  [BossJob](https://bossjob.sg/en-us/web3)  
 [工作信息]  -  [登链社区](https://learnblockchain.cn/jobs)  
-[工作信息]  -  [Crypto Job List](https://learnblockchain.cn/jobs)  
+[工作信息]  -  [Crypto Job List](https://cryptojobslist.com/)  
 
 # 线下聚会
 [活动平台] - [luma](https://luma.com/hkweb3?k=c)  
